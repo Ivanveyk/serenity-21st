@@ -1,5 +1,8 @@
+.invite-container {
+      color: #A2D729; /* Text color for the entire invite section */
+      font-family: "EB Garamond", serif; /* Font family */
+    }
 .invite {
-    font-family: "EB Garamond", serif;
-    color: #A2D729;
-    font-size: xx-large;
-}
+      font-size: 4rem; /* Adjust the font size as needed */
+      font-weight: bold; /* Optional: Make the text bold */
+    }
